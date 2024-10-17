@@ -7,7 +7,7 @@ screen.bgcolor("black")
 # Create a turtle
 spiral_turtle = turtle.Turtle()
 spiral_turtle.speed(0)
-colors = ["red", "yellow", "blue", "red", "purple", "orange"]
+colors = ["red", "yellow", "blue", "red", "green", "white"]
 
 # Draw a colorful spiral
 for i in range(200):
